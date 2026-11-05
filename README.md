@@ -1,81 +1,33 @@
-<h1 align="center">Hi, I'm Ruth Holtzman 👋</h1>
+# Hi, I'm Ruth Holtzman 👋
 
-<p align="center">
-  <b>Full-Stack Developer</b> · Practical Software Engineer
-</p>
+**Full Stack Developer** building systems end to end with **Java / Spring Boot**, **Node.js / React**, **Angular** and **Python**.
 
-<p align="center">
-  Thorough developer with logical thinking and a systems view. I learn fast, analyze technical problems in depth,
-  and focus on building complex systems with high-quality, reliable code – delivered on time.
-</p>
-
-<p align="center">
-  <a href="mailto:rut21178@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rut21178%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/RuthHoltzman?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-explore-blue?style=for-the-badge&logo=github"></a>
-</p>
+* 🚀 Backend developer at **Gong**, as part of the **KamaTech** Excellence Bootcamp – an AI task-prioritization platform built from microservices
+* 🧩 Design and build REST services and asynchronous integrations with **Spring Boot**, **PostgreSQL** and **Kafka**
+* 🤖 Trained as an **LLM Engineer**, working with AI agents, and use **Claude Code** in my daily work
+* 🎓 Practical Software Engineer (MAHAT), Seminar Darchei Rachel – graduated with high honors, **Kama Code Ultra Tech** excellence track
+* 📫 rut21178@gmail.com
 
 ---
 
-## 💼 What I'm doing now
+## 🧰 Tech Stack
 
-**Full-Stack Developer (Practicum) – KamaTech × Gong, 2026 – present**
+**Languages** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C#-512BD4?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- Backend developer in a team building an **AI task-prioritization system** that unifies data from multiple sources (meetings, emails, calendar) and identifies the most urgent task.
-- Designed and implemented a **microservice for managing task dependencies** with **Java 21 & Spring Boot** – REST APIs and a persistence/query layer on **PostgreSQL** (JDBC, Flyway).
-- Asynchronous service-to-service integration with **Kafka & Protobuf**, including integration tests.
+**Backend** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=flat)
 
-## 🛠️ Tech stack
+**Frontend** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,python,js,ts&perline=6" alt="Languages" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,kafka&perline=6" alt="Backend" />
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind&perline=6" alt="Frontend" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,git,docker,aws&perline=6" alt="Databases and tools" />
-</p>
+**Data** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
 
-| | |
-| --- | --- |
-| **Languages** | Java, C#, Python, JavaScript, TypeScript |
-| **Backend** | Spring Boot, Node.js, .NET, Express, Web API, Kafka, Protobuf |
-| **Frontend** | React, Angular, HTML5, CSS3, Tailwind |
-| **Databases & tools** | PostgreSQL, SQL Server, MongoDB, SQLite, Git, Docker, AWS, DevOps, Claude Code |
+**AI** ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white) ![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-412991?style=flat) ![AI Agents](https://img.shields.io/badge/AI%20Agents-1F6FEB?style=flat)
 
-## 🚀 Featured projects
+**Tools** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat) ![DevOps](https://img.shields.io/badge/DevOps-0A7B83?style=flat)
 
-### ♟️ [Real-time Chess Engine – KFChess](https://github.com/RuthHoltzman/KFChess)
-`Java 20` · `WebSocket` · `Docker`
-- Real-time client-server architecture over WebSocket, synchronizing game state between server and clients.
-- Layered architecture with separation of concerns, communication through an EventBus, and Docker-based deployment design.
+---
 
-### 🍲 [Collaborative Recipes Site (Full-Stack)](https://github.com/RuthHoltzman/Recipe-Project-Fullstack)
-`Angular` · `Python (Flask)` · `SQLite`
-- Full-stack system for sharing and managing recipes, with search by available ingredients and partial matching of results.
-- Permissions system and content-approval flow, including server-side image processing with Python/Pillow.
+## 🚀 Projects
 
-### 🎓 [Scholarships Management System](https://github.com/RuthHoltzman/project-Scholarships-fullstack)
-`React` · `Node.js` · `Express` · `MongoDB` · `Redux Toolkit`
-- Full-stack system managing the whole life cycle of scholarship applications: multi-step form, document upload and draft saving.
-- JWT & cookie-based authentication and authorization, with an Admin interface for managing and tracking application status.
-
-## 🎓 Education
-
-**Software Practical Engineer** – Seminar Darchei Rachel, 2023 – 2026
-
-- Kama **Code Ultra Tech** excellence track: intensive study and deep dives into academic topics
-- Graduated with a particularly high GPA
-- Additional training: AI (LLM Engineer & Agents), Business English
-
-## 🌐 Languages
-
-Hebrew – native · English – high level
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" alt="Ruth's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RuthHoltzman&show_icons=true&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthHoltzman&layout=compact&hide_border=true" />
-</p>
+* ♟️ [**KFChess**](https://github.com/RuthHoltzman/KFChess) – real-time chess over WebSocket (Java, Docker)
+* 🍲 [**Recipes site**](https://github.com/RuthHoltzman/Recipe-Project-Fullstack) – recipe sharing with search by available ingredients (Angular, Flask)
+* 🎓 [**Scholarships system**](https://github.com/RuthHoltzman/project-Scholarships-fullstack) – scholarship applications management (React, Node.js, MongoDB)
